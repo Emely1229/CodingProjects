@@ -1,2 +1,1 @@
-# CodingProjects
- TechdegreeProject
+# Coding Projects
